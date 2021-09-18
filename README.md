@@ -1,4 +1,4 @@
-# Audio-DSP
+# Audio
 
 Random meditations  
 Mostly music and audio related  
